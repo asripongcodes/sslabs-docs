@@ -2,7 +2,8 @@
 
 ## Getting Started
 
-SCB Developer Platform empowers developers to deploy code with zero downtime, through automating DevOps with its in-built infrastructure configurations and test frameworks. This documentation provides a quick overview of the platform, its features, and currently available code templates.
+SCB Developer Platform empowers developers to deploy 
+code with zero downtime, through automating DevOps with its in-built infrastructure configurations and test frameworks. This documentation provides a quick overview of the platform, its features, and currently available code templates.
 
 SCB Developer Platform offers two types of code templates for digital project deployments: API (Node.JS, Java, Python languages available) and Web (React and Angular languages available). 
 
@@ -24,7 +25,7 @@ Follow the instructions below to get started on SCB Developer Platform.
 
 5. Check the email address associated with your GitHub account for an invitation from SS Labs to join SS Labs’ GitHub Repository.
 
-![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/GitHub.png)
+![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/Sign+in+with+GitHub-1.png)
 
 6. Return to the same invitation page on the SS Labs website. Click on “Begin Your Journey!” button
 
@@ -40,8 +41,6 @@ Follow the instructions below to get started on SCB Developer Platform.
 
 8. You will be redirected to the Project Dashboard page.
 
-![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/team+setup.png)
-
 ### For Those Using SCB Developer Platform to deploy digital projects:
 
 **Step 2: Creating Your First Project**
@@ -50,7 +49,7 @@ Follow the instructions below to get started on SCB Developer Platform.
 
 ![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/dashboard.png)
 
-2. From the pop up on Project Dashboard screen, select “Create a Project Template” choice (RIGHT).
+2. From the pop up on Project Dashboard screen, select “Create a Project Template” choice (LEFT).
 
 ![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/dashboard_+create+project+template.png)
 
@@ -102,11 +101,13 @@ Once provisioning is completed, each box's circle will display a tickmark.
 
 A sample application log in DataDog looks like this:
 
+![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/ReactDataDogLog.png)
 
 A sample project's GitHub page looks like this:
 
+![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/ProjNodeJSGitHub.png)
 
-### For Those Using SCB Developer Platform to Host GitHub Repository:_
+### For Those Using SCB Developer Platform to Host GitHub Repository
 
 **Step 2: Creating Your First Code Repository**
 
@@ -134,7 +135,7 @@ A sample project's GitHub page looks like this:
 
 **Step 3: Check Current Platform Limitations**
 
-See also: Release Notes [link]
+See also: Release Notes
 
 Currently SCB Developer Platform allows you to create the projects in the following languages:
 
