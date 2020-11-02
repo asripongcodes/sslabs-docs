@@ -34,15 +34,19 @@ Follow the instructions below to get started on SCB Developer Platform.
 
 ![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/accept+email.png)
 
-5. Check the email address associated with your GitHub account for an invitation from SS Labs to join SS Labs’ GitHub Repository.
+5. Please check the email address associated with your GitHub account for an invitation from SS Labs to join SS Labs’ GitHub Repository. The subject line will look like this:
+
+![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/EmailSubject.png)
+
+6. Open the email to accept the invitation. Click on “Join @SCB-Innovation-Lab” button
 
 ![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/Sign+in+with+GitHub-1.png)
 
-6. Return to the same invitation page on the SS Labs website. Click on “Begin Your Journey!” button
+7. Return to the same invitation page on the SS Labs website. Click on “Begin Your Journey!” button
 
 ![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/accept+email.png)
 
-7. Set up your team by inputting your Team Name and Description (optional). Only English and the special character “-” can be used in "Team Name" and "Team description" fields. 
+8. Set up your team by inputting your Team Name and Description (optional). Only English and the special character “-” can be used in "Team Name" and "Team description" fields. 
 
 	Please note that team members can only be added to each team manually for now. Please contact SSLabs / Innovation Lab team with your team member’s email to add a member to your team. 
 
@@ -50,7 +54,7 @@ Follow the instructions below to get started on SCB Developer Platform.
 	
 	![Github](https://sslabs-utility.s3-ap-southeast-1.amazonaws.com/docs_image/team+setup.png)
 
-8. Please see Step 2.1: Creating Your First Project Template or Step 2.2: Creating Your First Code Repository for the next screen.
+9. Please see Step 2.1: Creating Your First Project Template or Step 2.2: Creating Your First Code Repository for the next screen.
 
 ---------------
 
