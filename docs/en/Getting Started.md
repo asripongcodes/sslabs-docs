@@ -1,6 +1,6 @@
 # Introduction </ins>
 
-## Getting Started
+## Getting Started SSlabs
 
 SCB Developer Platform empowers developers to deploy code with zero downtime, through automating DevOps with its in-built infrastructure configurations and test frameworks. This documentation provides a quick overview of the platform, its features, and currently available code templates.
 
